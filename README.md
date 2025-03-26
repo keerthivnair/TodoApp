@@ -61,10 +61,10 @@ Follow these steps to set up the application locally:
     ```
 
 3. **Configure API**
-    - Get your API key from [OpenWeather API](https://openweathermap.org/api).
+    - Get your API key from [OpenWeather API](https://newsapi.org/).
     - Create a `.env` file and add the following:
     ```bash
-    VITE_API_KEY=your_api_key
+    VITE_API_KEY=21041cd5761745f2a1bb29bbfee4eccf
     ```
 
 4. **Run the Application**
