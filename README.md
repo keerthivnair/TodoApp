@@ -41,7 +41,7 @@ Add the following screenshots to your `screenshots` folder in the repository:
 - **Styling:** CSS, Flexbox, Grid
 - **API Integration:** Fetch API
 - **Authentication:** Redux Mock Authentication
-- **Deployment:** Netlify / Vercel / GitHub Pages
+- **Deployment:** Netlify 
 
 ---
 
@@ -61,7 +61,7 @@ Follow these steps to set up the application locally:
     ```
 
 3. **Configure API**
-    - Get your API key from [OpenWeather API](https://newsapi.org/).
+    - Get your API key from [NewsAPI.org](https://newsapi.org/).
     - Create a `.env` file and add the following:
     ```bash
     VITE_API_KEY=21041cd5761745f2a1bb29bbfee4eccf
