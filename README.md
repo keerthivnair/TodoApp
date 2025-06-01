@@ -5,6 +5,6 @@
 4. Add, remove and sort todos.
 5. In page navigation of todo and completed tasks.
 
-   ##Live link of the project:
+   ##Live link of the project: 'https://todo-app-seven-pearl-18.vercel.app/'
 
 
